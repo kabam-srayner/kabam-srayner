@@ -1,4 +1,9 @@
+# Stephan Rayner @Kabam
+
 ### Hi there 👋
+- 🔭 I’m currently working on the Bullseye Backend Team as an SRE / Tooling Developer
+- 📫 How to reach me: Slack. Email is not a great way to reach me.
+- 👯 I’m looking to collaborate on https://github.com/explodingbarrel/tap-tools
 
 <!--
 **kabam-srayner/kabam-srayner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
