@@ -1,6 +1,6 @@
 # Stephan Rayner @Kabam
 
-### Hi there 👋
+### Hello new friend! 👋
 - 🔭 I’m currently working on: Making life a little more pleasant for developers at [Kabam](https://kabam.com). 
 - 📫 How to reach me: If you are at Kabam, Slack is the best way.
 - 💬 Ask me about: Every possible way to cook an egg.
